@@ -483,3 +483,7 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 /API/appsettings.json
+/client/ssl/localhost.pem
+/client/ssl/localhost-key.pem
+/API/datingapp.db-shm
+/API/datingapp.db-wal
